@@ -35,5 +35,5 @@ Microsoft Sentinel • Splunk • Wireshark • Nessus • Sysinternals • KQL 
 ## 📫 Contact  
 **Kito Mponjika**  
 Cybersecurity Analyst • SOC & Brand Protection  
-LinkedIn: https://www.linkedin.com/in/kito  
-GitHub: https://github.com/kito  
+LinkedIn: www.linkedin.com/in/kito-mponjika-501567169v 
+GitHub: https://github.com/kiitoo  
